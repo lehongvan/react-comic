@@ -1,4 +1,4 @@
-# react-comic
+# react-comic __
 
 [![Join the chat at https://gitter.im/squarer/react-comic](https://badges.gitter.im/squarer/react-comic.svg)](https://gitter.im/squarer/react-comic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
